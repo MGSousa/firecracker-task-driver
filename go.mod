@@ -1,8 +1,6 @@
-module github.com/cneira/firecracker-task-driver
+module github.com/MGSousa/firecracker-task-driver
 
 go 1.18
-
-replace github.com/tencentcloud/tencentcloud-sdk-go v3.0.83+incompatible => github.com/tencentcloud/tencentcloud-sdk-go v1.0.509
 
 require (
 	github.com/containerd/console v1.0.3
